@@ -1,2 +1,5 @@
 *.iml
 MapReduce/.idea/
+*.jar
+*.class
+MapReduce/target/
